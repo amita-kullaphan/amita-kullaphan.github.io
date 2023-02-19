@@ -1,3 +1,3 @@
 # amita-kullaphan.github.io
 
-My personal webpage under construction
+My personal webpage, currently under construction
