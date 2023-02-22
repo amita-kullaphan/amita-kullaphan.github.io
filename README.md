@@ -1,3 +1,13 @@
 # amita-kullaphan.github.io
 
-My personal webpage, currently under construction
+## Localhost development
+
+- Build the application
+  ```shell
+  hugo
+  ```
+- Deploy on localhost
+  ```shell
+  hugo serve
+  ```
+  Served on http://localhost:1313/
