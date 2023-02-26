@@ -38,19 +38,23 @@
             <div class="col-lg-6">
                 <div class="skill__progress">
                     <div class="skill__progress_heading mb-5">
-                        <span class="top-title pre-line">{{ .topTitle }}</span>
+                        {{ if .topTitle }}
+                            <span class="top-title pre-line">{{ .topTitle }}</span>
+                        {{ end }}
                         {{ .content | markdownify }}
                     </div>
-                    {{ $section := .skill }}
-                    {{ range $section }}
-                    <div class="skill__progress_item">
-                        <span class="d-inline-block text-dark"> {{ .title }} </span>
-                        <div class="progress-value float-right"><span>{{ .percent }}</span>%</div>
-                        <div class="progress">
-                            <div class="progress-bar" style="width:{{ .percent }}%;" aria-valuemin="0"
-                                aria-valuemax="{{ .percent }}"></div>
+                    {{ if .skill }}
+                        {{ $section := .skill }}
+                        {{ range $section }}
+                        <div class="skill__progress_item">
+                            <span class="d-inline-block text-dark"> {{ .title }} </span>
+                            <div class="progress-value float-right"><span>{{ .percent }}</span>%</div>
+                            <div class="progress">
+                                <div class="progress-bar" style="width:{{ .percent }}%;" aria-valuemin="0"
+                                    aria-valuemax="{{ .percent }}"></div>
+                            </div>
                         </div>
-                    </div>
+                        {{ end }}
                     {{ end }}
                 </div>
             </div>

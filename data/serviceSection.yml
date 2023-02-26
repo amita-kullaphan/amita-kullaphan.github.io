@@ -2,44 +2,52 @@
 enable: true
 topTitle: Working Area
 title: >
-  ## Creative Services
+  ## Legal Services
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  Text
 service:
   - content: >
-      #### UI/UX Design 
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/ui-ux.svg
-  - content: >
-      #### Web Development 
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      #### Property sales, purchases, and lease
+      
+      Text.
     image: images/service/web.svg
   - content: >
-      #### Creative Design 
+      #### Company formation and purchases
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/creative.svg
-  - content: >
-      #### Branding
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Text.
     image: images/service/branding.svg
   - content: >
-      #### UI/UX Design
+      #### Estate administration
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Text.
+    image: images/service/web.svg
+  - content: >
+      #### Will and testament
+
+      Text.
     image: images/service/ui-ux.svg
   - content: >
-      #### Web Development
+      #### Family law
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Text.
+    image: images/service/branding.svg
+  - content: >
+      #### Litigation
+
+      Text.
     image: images/service/web.svg
+  - content: >
+      #### Usufructs and servitudes
+
+      Text.
+    image: images/service/web.svg
+  - content: >
+      #### Notarial services
+
+      Text.
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Visas and work permits
+
+      Text.
+    image: images/service/ui-ux.svg

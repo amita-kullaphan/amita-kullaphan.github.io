@@ -1,13 +1,10 @@
 ---
 enable: true
-topTitle: My Resume
+topTitle: #My Resume
 title: >
-  ## My Expertises
+  ## My Qualification
 
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore  
-
-
-  Magna aliquyam erat, sed diam voluptua. At vero eos accusam justo.
+  Text
 tab1Name: Education
 tab2Name: Experiences
 tab1Target: education
@@ -15,44 +12,39 @@ tab2Target: experience
 
 education:
   - content: >
-      #### Master in Arts
+      #### Thammasat University
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      Text
+    time: LL.M. in Taxes Law
   - content: >
-      #### Master in Arts
+      #### Institute of Legal Education, Thai Bar Association
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      Text
+    time: Barrister-at-Law
   - content: >
-      #### Master in Arts
+      #### Lawyers Council of Thailand
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      Text
+    time: Attorney-at-Law
   - content: >
-      #### Master in Arts
+      #### Chulalongkorn University
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      Text
+    time: LL.B. in Civil and Criminal Law
 
 experience:
   - content: >
-      #### Umbrella co. 
+      #### Absolute Lawyer Hua Hin 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2016-Present
+      Text
+    time: Partner and Lawyer
   - content: >
-      #### Aperture Science 
+      #### SCL Nishimura C&P Limited 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2010-2016
+      Text
+    time: Lawyer
   - content: >
-      #### ACME Inc. 
+      #### Chavalit and Partner Limited 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2005-2010
-  - content: >
-      #### LexCorp 
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2001-2005
+      Text
+    time: Lawyer

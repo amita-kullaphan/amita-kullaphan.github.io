@@ -10,66 +10,71 @@ name = "Home"
 url = "#home"
 weight = 1
 [[menu.main]]
-name = "About"
-url = "#about"
-weight = 2
-[[menu.main]]
 name = "Service"
 url = "#service"
+weight = 2
+[[menu.main]]
+name = "About"
+url = "#about"
 weight = 3
+#[[menu.main]]
+#name = "Work"
+#url = "#portfolio"
+#weight = 4
 [[menu.main]]
-name = "Work"
-url = "#portfolio"
-weight = 4
-[[menu.main]]
-name = "Resume"
+name = "Qualification"
 url = "#resume"
 weight = 5
 [[menu.main]]
 name = "Skills"
 url = "#skills"
 weight = 6
-[[menu.main]]
-name = "Blog"
-url = "#blog"
-weight = 7
+#[[menu.main]]
+#name = "Blog"
+#url = "#blog"
+#weight = 7
 [[menu.main]]
 name = "Contact"
 url = "#contact"
 weight = 8
 
 # Sitemap Menu
+#[[menu.sitemap]]
+#name = "About me"
+#url = "about"
+#weight = 1
 [[menu.sitemap]]
-name = "About me"
-url = "about"
+name = "Contact"
+url = "contact"
 weight = 1
 [[menu.sitemap]]
-name = "Frequently Ask Question"
-url = "#"
+name = "Frequently Ask Questions"
+url = "faq"
 weight = 2
-[[menu.sitemap]]
-name = "Privacy & Policy"
-url = "#"
-weight = 3
-[[menu.sitemap]]
-name = "Latest Article"
-url = "#"
-weight = 4
+#[[menu.sitemap]]
+#name = "Privacy & Policy"
+#url = "#"
+#weight = 3
+#[[menu.sitemap]]
+#name = "Latest Article"
+#url = "#"
+#weight = 4
 
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "All right reserved copyright © Portio 2020"
+copyright = "All rights reserved copyright © Amita Kullaphan 2023"
 footerLogo = "images/contact/widget-logo.png"
 formspreeURL = "YOUR FORMSPREE URL"
+formspreeEnabled = false
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
 logo = "images/site-navigation/logo.png"
 
 [params.address]
-address = "23 Khan Niketon, Grand Street, NYK."
-email = "hello@example.com"
-openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
-phone = "+(448) 833 5272 332"
+address = "70/154 Soi Hua Hin 112, Nong Kae, Hua Hin District, Prachuap Khiri Khan 77110, Thailand"
+email = "amita@absolutelawyer-huahin.com"
+openingHours = "Available from 9am to 5pm on working days ICT time (UTC+07:00)"
+phone = "+66 (0) 325-222-37 / 325-222-73"
 
 [params.map]
 APIkey = "YOUR GOOGLE MAP API"
@@ -80,17 +85,17 @@ pinImage = "images/pin.png"
 # Social icons
 [[params.social]]
 icon = "fa-facebook-official"
-url = "https://www.facebook.com/"
+url = "https://facebook.com/absolutelawyerhuahin"
 weight = 1
 [[params.social]]
 icon = "fa-linkedin-square"
-url = "https://www.linkedin.com/"
+url = "https://www.linkedin.com/amita-kullaphan"
 weight = 2
-[[params.social]]
-icon = "fa-pinterest-square"
-url = "https://www.pinterest.com/"
-weight = 3
-[[params.social]]
-icon = "fa-twitter-square"
-url = "https://twitter.com/"
-weight = 4
+#[[params.social]]
+#icon = "fa-pinterest-square"
+#url = "https://www.pinterest.com/"
+#eight = 3
+#[[params.social]]
+#icon = "fa-twitter-square"
+#url = "https://twitter.com/"
+#weight = 4

@@ -1,0 +1,16 @@
+{{ with .Site.Data.error404Section }}
+{{ if .enable }}
+<section class="section about" id="about">
+    <div class="container">
+        <div class="row text-center">
+            <div class="col-lg-6 offset-lg-3">
+                <div class="about_header mb-5">
+                    <span class="top-title">{{ .topTitle }}</span>
+                    {{ .title | markdownify}}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}
