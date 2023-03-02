@@ -2,9 +2,12 @@
 enable: true
 topTitle: Hello, I am Amita
 content: >
-  # I am your Thai lawyer
+  # I'm a Thai property lawyer
 
-  Text
+  With a passion for property law, I’ve dedicated myself to helping clients navigate the complex legal landscape surrounding property transactions as well as company formation in Thailand.
+
+
+  As a lawyer, I have experience working with clients both in Thailand and abroad, so I'm happy to provide my services remotely. Whether you're a local resident, a foreign investor, expat, or just someone looking to buy a vacation home in Thailand, I'm here to help.
 buttonName: Contact me
 buttonURL: contact
 image: images/hero/amita.jpg
