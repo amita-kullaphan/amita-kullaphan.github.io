@@ -64,11 +64,11 @@ weight = 2
 blogPageURL = "blog"
 contactLink = "contact"
 copyright = "All rights reserved copyright © Amita Kullaphan 2023"
-footerLogo = "images/contact/widget-logo.png"
+#footerLogo = "images/contact/widget-logo.png"
 formspreeURL = "YOUR FORMSPREE URL"
 formspreeEnabled = false
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
-logo = "images/site-navigation/logo.png"
+#logo = "images/site-navigation/logo.png"
 
 [params.address]
 address = "70/154 Soi Hua Hin 112, Nong Kae, Hua Hin District, Prachuap Khiri Khan 77110, Thailand"
