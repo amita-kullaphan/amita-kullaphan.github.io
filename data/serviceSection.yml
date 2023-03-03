@@ -15,7 +15,7 @@ service:
       #### Company formation and purchases
 
       Text.
-    image: images/service/branding.svg
+    image: images/service/company.svg
   - content: >
       #### Estate administration
 
