@@ -35,11 +35,17 @@
 		</div>
 		<div class="row footer__widget">
 			<div class="col-lg-4">
-				<div class="footer__widget_logo mb-5">
-					{{ if .Site.Params.footerLogo }}
-						<img src="{{ .Site.Params.footerLogo | absURL }}" alt="widget-logo">
-					{{ end }}
+				{{ if .Site.Menus.webdev }}
+				<div class="text-light footer__widget_logo mb-5">
+					<h4 class="base-font">Web development</h4>
+					<ul class="unstyle-list small">
+						{{ $webdev := .Site.Menus.webdev }}
+						{{ range $webdev }}
+						<li class="mb-2"><a class="text-light" href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+						{{ end }}
+					</ul>
 				</div>
+				{{ end }}
 			</div>
 			<div class="col-lg-4">
 				<div class="text-light footer__widget_sitemap mb-5">
