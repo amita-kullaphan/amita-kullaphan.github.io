@@ -1,6 +1,6 @@
 ---
 enable: true
-topTitle: Working Area
+#topTitle: Working Area
 title: >
   ## Legal Services
 
@@ -45,9 +45,14 @@ service:
       #### Visas and work permits
 
       Text.
-    image: images/service/pen.svg
+    image: images/service/passport.svg
   - content: >
       #### Usufructs and servitudes
+
+      Text.
+    image: images/service/usufruct.svg
+  - content: >
+      #### Other services
 
       Text.
     image: images/service/stack.svg
