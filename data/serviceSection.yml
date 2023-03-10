@@ -24,17 +24,18 @@ service:
   - content: >
       #### Will and testament
 
-      Text.
+      Create or modify a will and testament to secure all the assets and provide you greater peace of mind and ensure that it is made pursuant to the required formalities under Thai Law.
     image: images/service/pen.svg
   - content: >
       #### Family law
 
-      Text.
+      Full range of family law services arising after family breakdown, including property, children, divorce, and child support. 
+      My focus is on out-of-court solutions.
     image: images/service/family.svg
   - content: >
       #### Litigation
 
-      Text.
+      I resolve disputes through the court system, whether you are facing a breach of contract, personal injury, or property dispute.
     image: images/service/gavel.svg
   - content: >
       #### Notarial services
@@ -44,7 +45,8 @@ service:
   - content: >
       #### Visas and work permits
 
-      Text.
+      Guidance and assistance with various visa categories, ranging from family-based visas to employment, business, investment, retirement, or permanent residency. 
+      Additionally, I help with 90-day reporting and other immigration-related transactions.
     image: images/service/passport.svg
   - content: >
       #### Usufructs and servitudes

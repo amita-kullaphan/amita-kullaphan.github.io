@@ -4,7 +4,14 @@ topTitle: #My Resume
 title: >
   ## My Qualification
 
-  Text
+
+  My interest in law began during my university studies, where I acquired my initial experience as a part-time paralegal. 
+  Although my primary focus throughout my professional life has been on property law, I have also taken an interest in the tax field. 
+  
+  
+  I am a licensed Thai lawyer and hold certification as a barrister, which is required to represent clients in court trials. 
+  In addition, I am also a public notary with extensive experience and knowledge in areas such as property purchases, estate administration, company establishment, and family law.
+
 tab1Name: Education
 tab2Name: Experiences
 tab1Target: education
@@ -37,14 +44,14 @@ experience:
       #### Absolute Lawyer Hua Hin 
 
       Text
-    time: Partner and Lawyer
+    time: Director and Lawyer
   - content: >
       #### SCL Nishimura C&P Limited 
 
       Text
-    time: Lawyer
+    time: Associate Lawyer
   - content: >
       #### Chavalit and Partner Limited 
 
       Text
-    time: Lawyer
+    time: Associate Lawyer
