@@ -90,7 +90,7 @@ $(document).ready(function () {
     infinite: false,
     slidesToShow: 3,
     slidesToScroll: 3,
-    dots: false,
+    dots: true,
     arrows: false,
     responsive: [
       {
