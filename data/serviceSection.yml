@@ -4,7 +4,7 @@ enable: true
 title: >
   ## Legal Services
 
-  Text
+  I consult and provide various services in English or Thai.
 service:
   - content: >
       #### Property sales, purchases, and lease
@@ -14,12 +14,13 @@ service:
   - content: >
       #### Company formation and purchases
 
-      Text.
+      To operate a business in Thailand, it is necessary to establish a business entity and obtain a business license. 
+      I assist in choosing the appropriate business structure that suits your needs.
     image: images/service/company.svg
   - content: >
       #### Estate administration
 
-      Text.
+      Managing the legal process that the assets, belongings, and will must go through after one passes away to ensure that the final wishes are carried out smoothly and efficiently.
     image: images/service/court.svg
   - content: >
       #### Will and testament
@@ -40,7 +41,8 @@ service:
   - content: >
       #### Notarial services
 
-      Text.
+      Notarizing documents, certifying copies, assuring translations, and legalizing various documents such as birth, marriage, or life certificates. 
+      The last one extends to pensioners who require such documentation to guarantee their income from overseas.
     image: images/service/notary.svg
   - content: >
       #### Visas and work permits
@@ -51,10 +53,13 @@ service:
   - content: >
       #### Usufructs and servitudes
 
-      Text.
+      Legal entitlement that allows a person to utilize and gain advantages from someone else's property, including the right to receive the income generated during the granted period.
+      While it is commonly granted to close family members, it may also be given to other parties.
     image: images/service/usufruct.svg
   - content: >
       #### Other services
 
-      Text.
+      Haven't you found what you're searching for? 
+      My services extend beyond the list provided, and I can assist with any matter that expats typically find challenging in Thailand. 
+      This includes tasks such as banking administration and handling financial transactions.
     image: images/service/stack.svg
