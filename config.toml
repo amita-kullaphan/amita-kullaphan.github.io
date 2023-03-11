@@ -39,14 +39,14 @@ url = "#contact"
 weight = 8
 
 # Web Development
-#[[menu.webdev]]
-#name = "Nikolas Charalambidis"
-#url = "https://nikolas-charalambidis.github.io"
-#weight = 1
-#[[menu.webdev]]
-#name = "Portio Hugo template"
-#url = "https://github.com/StaticMania/portio-hugo"
-#weight = 2
+[[menu.webdev]]
+name = "Nikolas Charalambidis"
+url = "https://nikolas-charalambidis.github.io"
+weight = 1
+[[menu.webdev]]
+name = "Portio Hugo template"
+url = "https://github.com/StaticMania/portio-hugo"
+weight = 2
 
 # Sitemap Menu
 #[[menu.sitemap]]

@@ -41,7 +41,7 @@
 					<ul class="unstyle-list small">
 						{{ $webdev := .Site.Menus.webdev }}
 						{{ range $webdev }}
-						<li class="mb-2"><a class="text-light" href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+						<li class="mb-2"><a class="text-light" href="{{ .URL | absURL }}" target="_blank" rel="noopener noreferrer">{{ .Name }}</a></li>
 						{{ end }}
 					</ul>
 				</div>
