@@ -1,4 +1,4 @@
-# amita-kullaphan.github.io
+# amita-kullaphan.com
 
 ## Localhost development
 
