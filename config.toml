@@ -86,11 +86,11 @@ email = "amita@absolutelawyer-huahin.com"
 openingHours = "Available from 9am to 5pm on working days ICT time (UTC+07:00)"
 phone = "+66 (0) 325-222-37 / 325-222-73"
 
-[params.map]
-APIkey = "YOUR GOOGLE MAP API"
-latitude = "23.7783741"
-longitude = "90.3746808"
-pinImage = "images/pin.png"
+#[params.map]
+#APIkey = "YOUR GOOGLE MAP API"
+#latitude = "23.7783741"
+#longitude = "90.3746808"
+#pinImage = "images/pin.png"
 
 # Social icons
 [[params.social]]
