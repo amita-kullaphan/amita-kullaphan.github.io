@@ -41,7 +41,7 @@ weight = 8
 # Web Development
 [[menu.webdev]]
 name = "Nikolas Charalambidis"
-url = "https://nikolas-charalambidis.github.io"
+url = "https://nikolas-charalambidis.com"
 weight = 1
 [[menu.webdev]]
 name = "Portio Hugo template"
