@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://amita-kullaphan.com/sitemap.xml
