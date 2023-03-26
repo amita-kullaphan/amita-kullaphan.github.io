@@ -1,6 +1,11 @@
 <head>
   <meta charset="utf-8" />
-  <title>{{ .Title }}</title>
+  <title>{{ .Params.Title }}</title>
+
+  <meta name="author" content="Amita Kullaphan">
+  <meta name="keywords" content="{{ if .Params.Keywords }}{{ delimit .Params.Keywords ", " }}{{ end }}">
+  <meta name="description" content="{{ if .Params.Description }}{{ trim .Params.Description "\n" }}{{else if .Site.Params.Description}}{{ trim .Site.Params.Description "\n"}}{{ end }}">
+  <meta name="robots" content="index,follow">
 
   {{ "<!-- mobile responsive meta -->" | safeHTML }}
   <meta name="viewport" content="width=device-width, initial-scale=1" />

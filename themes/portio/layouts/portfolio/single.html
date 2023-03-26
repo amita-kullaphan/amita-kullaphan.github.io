@@ -2,7 +2,7 @@
 
 <section class="section case-details">
   <div class="svg-img">
-    <img src="{{ "images/hero/figure-svg.svg" | absURL }}" alt="" />
+    <img src="{{ "images/hero/figure-svg.svg" | absURL }}" alt="figure" />
   </div>
   <div class="animate-shape">
     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 600 600">
@@ -92,15 +92,15 @@
             {{ $url := printf "%s" .Permalink | absLangURL }}
             <ul class="unstyle-list big">
               <li>
-                <a href=" https://www.facebook.com/sharer/sharer.php?u={{ $url }}"><i
+                <a href=" https://www.facebook.com/sharer/sharer.php?u={{ $url }}" title="Facebook"><i
                     class="fa fa-facebook-official btn-zoom"></i></a>
               </li>
               <li>
-                <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ $url }}"><i
+                <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ $url }}" title="LinkedIn"><i
                     class="fa fa-linkedin-square btn-zoom"></i></a>
               </li>
               <li>
-                <a href="https://twitter.com/intent/tweet?&url={{ $url }}"><i
+                <a href="https://twitter.com/intent/tweet?&url={{ $url }}" title="Twitter"><i
                     class="fa fa-twitter-square btn-zoom"></i></a>
               </li>
             </ul>

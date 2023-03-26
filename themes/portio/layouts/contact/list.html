@@ -2,7 +2,7 @@
 
 <header class="breadCrumb">
   <div class="svg-img">
-    <img src="{{ "images/hero/figure-svg.svg" | absURL }}" alt="bg">
+    <img src="{{ "images/hero/figure-svg.svg" | absURL }}" alt="figure">
   </div>
   <div class="animate-shape">
     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 600 600">
@@ -78,7 +78,7 @@
           </div>
           <h4>Phone & Email</h4>
           <p>{{ $address.phone }}<br>
-            <a href="mailto:{{ $address.email }}">{{ $address.email }}</a>
+            <a href="mailto:{{ $address.email }}" title="Email">{{ $address.email }}</a>
           </p>
 
         </div>
