@@ -28,6 +28,11 @@ service:
       Create or modify a will and testament to secure all the assets and provide you greater peace of mind and ensure that it is made pursuant to the required formalities under Thai Law.
     image: images/service/pen.svg
   - content: >
+      #### Income tax
+
+      Your income source can include retirement pensions, employment salaries, dividends, rental income, and other taxable assets. Are you a tax resident? You can depend on my up-to-date tax consultation services.
+    image: images/service/tax.svg
+  - content: >
       #### Family law
 
       Full range of family law services arising after family breakdown, including property, children, divorce, and child support. 
