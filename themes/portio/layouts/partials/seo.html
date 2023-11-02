@@ -2,3 +2,6 @@
 <meta name="keywords" content="{{ if .Params.Keywords }}{{ delimit .Params.Keywords ", " }}{{ end }}">
 <meta name="description" content="{{ if .Params.Description }}{{ trim .Params.Description "\n" }}{{else if .Site.Params.Description}}{{ trim .Site.Params.Description "\n"}}{{ end }}">
 <meta name="robots" content="index,follow">
+<!-- Facebook (Open Graph) -->
+<meta name="og:type" content="{{ .Params.ogType }}" >
+<meta name="og:image" content="{{ .Params.postImage | absURL }}" >
