@@ -33,8 +33,15 @@
             {{ end }}
             {{ .content | markdownify }}
           </div>
+          <li class="p-1" style="list-style-type: none; display:inline ">
           <a type="button" class="btn btn-lg btn-primary btn-zoom"
-            href="{{ .buttonURL | absURL }}">{{ .buttonName }}</a>
+               href="{{ .button1URL | absURL }}">{{ .button1Name }}</a>
+          </li>
+          <li class="p-2" style="list-style-type: none; display:inline ">
+          <a type="button" class="nav-item text-sm-center btn btn-lg btn-primary btn-zoom"
+               href="{{ .button2URL | absURL }}">{{ .button2Name }}</a>
+          </li>
+
         </div>
       </div>
       <div class="col-lg-6">
