@@ -1,6 +1,6 @@
 ---
 title: "Income Tax Loophole to End?"
-date: 2020-10-29T12:49:27+06:00
+date: 2023-11-02T22:17:00+06:00
 bibFile: content/blog/income-tax-loophole-to-end.json
 featureImage: images/blog/tax/tax-ahead.png
 postImage: images/blog/tax/image.jpg
