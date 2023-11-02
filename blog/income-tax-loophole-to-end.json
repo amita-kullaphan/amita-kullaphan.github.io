@@ -1,0 +1,32 @@
+[
+  {
+    "id": "revenue_department_revenue_code_chapter_3",
+    "title": "Revenue Code",
+    "publisher": "กรมสรรพากร The Revenue Department",
+    "URL": "https://www.rd.go.th/english/37749.html",
+    "issued": { "date-parts": [[2021, 1, 7]] },
+    "author" : [
+      { "family" : "The Revenue Department" }
+    ]
+  },
+  {
+    "id": "revenue_department_order_161_2023",
+    "title": "Order No. Por. 161/2023",
+    "publisher": "กรมสรรพากร The Revenue Department",
+    "URL": "https://www.rd.go.th/fileadmin/user_upload/kormor/newlaw/dn161A.pdf",
+    "issued": { "date-parts": [[2023, 9, 15]] },
+    "author" : [
+      { "family" : "The Revenue Department" }
+    ]
+  },
+  {
+    "id": "revenue_department_news_37_2020",
+    "title" : "News 37/2020",
+    "publisher": "กรมสรรพากร The Revenue Department",
+    "URL": "https://www.rd.go.th/fileadmin/user_upload/news/englishnews37_2563.pdf",
+    "issued": { "date-parts": [[2020, 6, 18]] },
+    "author" : [
+      { "family" : "The Revenue Department" }
+    ]
+  }
+]
