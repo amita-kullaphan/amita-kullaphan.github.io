@@ -1,10 +1,10 @@
 {{ define "main" }}
-
 <header class="breadCrumb">
   <div class="container">
     <div class="row">
       <div class="col-lg-10 col-md-12 offset-lg-1 offset-md-0 text-center">
         <h3 class="breadCrumb__title">{{ .Title }}</h3>
+        <!--
         <nav aria-label="breadcrumb" class="d-flex justify-content-center">
           <ol class="breadcrumb align-items-center">
             <li class="breadcrumb-item"><a href={{ .Site.BaseURL }} title="Home">Home</a></li>
@@ -12,6 +12,7 @@
             <li class="breadcrumb-item active" aria-current="page">{{ .Title }}</li>
           </ol>
         </nav>
+        -->
       </div>
     </div>
 
@@ -27,8 +28,9 @@
       {{ if .Params.tags }}
       <li>
         <i class="fa fa-tag"></i>
-        {{ range (.GetTerms "tags") }}
-          <a class="text-capitalize" href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+        {{ range $i, $e := .GetTerms "tags" -}}
+          {{- if $i -}} | {{ end -}}
+          <a class="text-capitalize" href="{{ $e.Permalink }}">{{ .LinkTitle }}</a>
         {{ end }}
       </li>
       {{ end }}
@@ -70,6 +72,7 @@
     <img src={{ "images/service/background-pattern.svg" | absURL }} alt="background-shape">
   </div>
   <div class="container">
+    {{ if .Params.postImage }}
     <div class="row">
       <div class="col-lg-12">
         <div class="singleBlog__feature">
@@ -77,6 +80,7 @@
         </div>
       </div>
     </div>
+    {{ end }}
     <div class="row mt-5">
       <div class="col-lg-12">
         <div class="singleBlog__content">

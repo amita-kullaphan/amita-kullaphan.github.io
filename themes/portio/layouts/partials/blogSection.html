@@ -1,6 +1,6 @@
 {{ with .Site.Data.blogSection }}
 {{ if .enable }}
-<section class="section blog-preview" id="blog">
+<section class="section blog-preview" id="articles">
 	<div class="blog-preview__shape">
 		<img src="images/blog/blog-shape.svg" alt="blog shape" />
 	</div>
@@ -26,7 +26,9 @@
 			<div class="col-lg-4">
 				<div class="blog-preview__item">
 					<div class="blog-preview__item-thumb">
-						<img src="{{ .Params.featureImage | absURL }}" alt="post-image"/>
+						<a href="{{ .Permalink }}">
+							<img src="{{ .Params.featureImage | absURL }}" alt="post-image"/>
+						</a>
 					</div>
 					<div class="blog-preview__item-content bg-white">
 						<span class="small">{{ .PublishDate.Format "January 2, 2006" }}</span>

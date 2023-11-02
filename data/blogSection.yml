@@ -1,9 +1,9 @@
 ---
-enable: false
-topTitle: Blog
+enable: true
+#topTitle: Blog
 title: >
-  ## Recent Article
+  ## Recent Articles
 
-  Enjoy team diversity and increase their networks among others people in various fields by provided.
+  I love to share the results of my research supported with my legal experience.
 
 buttonTarget: blog
