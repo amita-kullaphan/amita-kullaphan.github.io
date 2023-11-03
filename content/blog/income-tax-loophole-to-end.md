@@ -46,6 +46,7 @@ Short-term residence is not defined under Thai tax regulations.
 
 Under the existing rules, there exists a significant loophole:
 For example, if a Thai tax resident receives foreign-sourced income on 31 December 2020, deposits it in his foreign bank account, and subsequently transfers it to his Thai bank account the next day (1 January 2021, the calendar year after that in which he received the income), the income would **not** be liable to taxation in Thailand.
+
 Notably, the foreign-sourced income has been exempted for nearly 40 years.
 
 **Multilateral treaties**
@@ -91,7 +92,7 @@ Now, you may start to wonder:
 - If 800k is transferred into my account (for example to fulfill the requirements of a Non-Immigrant O Visa extension based on retirement), will banks be obliged to inform the financial department?
 - Should I always file the tax return even if I have either no taxable income or the calculated tax would be zero? Or should I only upon a random check?
 - What's the procedure for confirming the income tax payments in my home country? Do I need a certified translation? What is the minimum acceptable proof of taxed income?
-- What if the proof of taxed income uncovers the fact I conduct business activities on the Thai soil albeit online and based in my country, i.e. [continuing to do something I was doing before he came to Thailand anyway](https://www.chiangmailocator.com/wiki-can-digital-nomads-legally-work-in-thailand-p177)?
+- What if the proof of taxed income uncovers the fact I conduct business activities on the Thai soil albeit online and based in my country, i.e. [continuing to do something I was doing before I came to Thailand anyway](https://www.chiangmailocator.com/wiki-can-digital-nomads-legally-work-in-thailand-p177)?
 - Are the health and social taxes in my home country categorized as an income tax as long as they are calculated from the income itself?
 - If 50% of my income is taxed in my home country, and the other 50% is not, how can I prove that the specific amount transferred from abroad was indeed taxed?
 - With 1000k earned abroad, 200k in taxes paid based on complex and calculation, and 500k transferred, is my tax responsibility in Thailand proportional to the transfer?
