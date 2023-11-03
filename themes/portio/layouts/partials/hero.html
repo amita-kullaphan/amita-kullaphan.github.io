@@ -33,15 +33,29 @@
             {{ end }}
             {{ .content | markdownify }}
           </div>
+          <div class="navbar-expand-sm">
+            <div class="navbar-collapse justify-content-between">
+              <div class="navbar-nav">
+                <li class="nav-item text-sm-center p-2">
+                  <a href="{{ .button1URL | absURL }}" title="Blog" class="btn btn-primary btn-zoom hire_button">{{ .button1Name }}</a>
+                </li>
+                <li class="nav-item text-sm-center p-2">
+                  <a href="{{ .button2URL | absURL }}" title="Contact" class="btn btn-primary btn-zoom hire_button">{{ .button2Name }}</a>
+                </li>
+              </div>
+            </div>
+          </div>
+
+          <!--
           <li class="p-1" style="list-style-type: none; display:inline ">
-          <a type="button" class="btn btn-lg btn-primary btn-zoom"
+          <a type="button" class="btn btn-sm btn-primary btn-zoom"
                href="{{ .button1URL | absURL }}">{{ .button1Name }}</a>
           </li>
           <li class="p-2" style="list-style-type: none; display:inline ">
-          <a type="button" class="nav-item text-sm-center btn btn-lg btn-primary btn-zoom"
+          <a type="button" class="btn btn-sm btn-primary btn-zoom"
                href="{{ .button2URL | absURL }}">{{ .button2Name }}</a>
           </li>
-
+          -->
         </div>
       </div>
       <div class="col-lg-6">
