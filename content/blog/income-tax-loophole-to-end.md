@@ -17,8 +17,8 @@ tags:
 
 From time to time, new Orders in Thailand can unexpectedly cause panic, hysteria, and mass confusion among long-term foreign residents and even Thais themselves.
 This year, there is a hotly discussed debate over the [Order No. Por. 161/2023](https://www.rd.go.th/fileadmin/user_upload/kormor/newlaw/dn161A.pdf) issued by the Revenue Department, dated 15th September 2023, and coming into effect on the 1st of January 2024.
-The Order serves as new guidance for tax officers in interpreting Section 41, Paragraph 2 of the Thai Tax Code.
-According to this new order, Thai tax residents who earn income from abroad will be subject to personal income tax on such an income upon transferring it into Thailand in any calendar year from 1 January 2024 onwards {{< cite "revenue_department_order_161_2023" >}}.
+The Order serves as new *internal* guidance for tax officers in interpreting Section 41, Paragraph 2 of the Thai Tax Code.
+According to this new Order, Thai tax residents who earn income from abroad will be subject to personal income tax on such an income upon transferring it into Thailand in any calendar year from 1 January 2024 onwards {{< cite "revenue_department_order_161_2023" >}}.
 
 Before we immerse ourselves into breaking down the new guidance, we have to put it into perspective with the current practice first.
 
@@ -45,7 +45,7 @@ Short-term residence is not defined under Thai tax regulations.
 **Significant loophole**
 
 Under the existing rules, there exists a significant loophole:
-For example, if a Thai tax resident receives foreign-sourced income on 31 December 2020, deposits it in his foreign bank account, and subsequently transfers it to his Thai bank account the next day (1 January 2021, the calendar year after that in which he received the income), the income would **not** be liable to taxation in Thailand.
+For example, if a Thai tax resident receives foreign-sourced income on 31 December 2020, deposits it in his foreign bank account, and subsequently transfers it to his Thai bank account the next day (1 January 2021, the calendar year after that in which he received the income), the income would *not* be liable to taxation in Thailand.
 
 Notably, the foreign-sourced income has been exempted for nearly 40 years.
 
@@ -106,7 +106,7 @@ ___
 
 The Order No. Por. 161/2023 only provides a fundamental idea.
 It is not the last Order relevant to the foreign-sourced income taxation, and we can expect that more Orders will follow.
-However, it is yet unclear when and how many orders the Revenue Department will release, so is their level of detail.
+However, it is yet unclear when and how many Orders the Revenue Department will release, so is their level of detail.
 Given the Order comes into effect on the 1st of January 2024, we should not wait long.
 Until then, nobody can give you an exact answer, and be careful of those who claim otherwise.
 
@@ -115,7 +115,8 @@ ___
 ### Conclusion
 
 The Order No. Por. 161/2023 does not bring anything specific and only introduces a rough idea with no practical details or explanation on how the gist of foreign-sourced income tax would change in practice.
-We have to await for releasing the further orders in a strong hope for a detailed and comprehensive description covering the edge cases.
+We have to await for releasing the further Orders in a strong hope for a detailed and comprehensive description covering the edge cases.
+Remember that these are just Orders that serve internal purposes and not actual laws that go through the whole legislation process.
 
 Right now, you have a chance to prepare for upcoming changes if you are planning to transfer money into Thailand in the next year:
 
